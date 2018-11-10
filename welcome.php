@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--comment-->
 <html>
 <link rel="stylesheet" href="welcome.css">
 <head>
